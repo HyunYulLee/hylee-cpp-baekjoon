@@ -10,7 +10,7 @@
 //
 //	int T; cin >> T;
 //	while (T--) {
-//		int input; cin >> input;
+//		int input; cin >> input; 
 //		if (input == 0) {
 //			if (!max_heap.empty()) {
 //				result.push_back(max_heap.top());
