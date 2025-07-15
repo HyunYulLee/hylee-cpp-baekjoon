@@ -348,5 +348,8 @@
     <ClCompile Include="3_17626.cpp">
       <Filter>소스 파일\CLASS 3</Filter>
     </ClCompile>
+    <ClCompile Include="3_30804.cpp">
+      <Filter>소스 파일\CLASS 3</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
