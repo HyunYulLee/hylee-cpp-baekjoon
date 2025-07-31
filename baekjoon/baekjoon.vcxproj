@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="15824.cpp" />
     <ClCompile Include="3190.cpp" />
+    <ClCompile Include="3_10026.cpp" />
     <ClCompile Include="3_11286.cpp" />
     <ClCompile Include="3_11403.cpp" />
     <ClCompile Include="3_1389.cpp" />
